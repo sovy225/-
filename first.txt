@@ -1,1 +1,3 @@
 Gitの基本的なワークフローを学習します。
+・git add
+・gitcommit
